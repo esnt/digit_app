@@ -2,5 +2,5 @@ numpy
 matplotlib
 scikit-learn
 joblib
-PIL
+Pillow
 streamlit
